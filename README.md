@@ -1,2 +1,2 @@
 # Io-COS-Spec-Analysis
-Code and file repository for project done as part of NASA SUPPR.
+Code and file repository for project done as part of NASA SUPPR. Includes code, all spectrum FITS files used, and the produced plots.
